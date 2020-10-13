@@ -1,1 +1,1 @@
-![](https://visitor-badge.glitch.me/badge?chenlingmin=CasterWx.readme)
+![](https://visitor-badge.glitch.me/badge?page_id=chenlingmin)
