@@ -3,10 +3,13 @@
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 
-## 学习
+## 学习代码
 
 * [《操作系统真象还原》](https://github.com/chenlingmin/os-learn)
 * [《x86汇编语言 从实模式到保护模式》](https://github.com/chenlingmin/x86_assembly)
 * [《自己动手实现Lua》](https://github.com/chenlingmin/luago)
 * [《自己动手写Docker》](https://github.com/chenlingmin/mydocker)
 * [《自己动手写Java虚拟机》](https://github.com/chenlingmin/jvmgo)
+* [《专为程序员设计的线性代数学习》](https://github.com/chenlingmin/Play-with-Linear-Algebra)
+* [《Python3 入门机器学习》](https://github.com/chenlingmin/python3-ml)
+* [《算法和数据结构》](https://github.com/chenlingmin/algorithms)
