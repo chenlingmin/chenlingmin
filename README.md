@@ -5,6 +5,7 @@
 
 ## 学习代码
 
+* [《自制编程语言 基于C语言》](https://github.com/chenlingmin/sparrow)
 * [《操作系统真象还原》](https://github.com/chenlingmin/os-learn)
 * [《x86汇编语言 从实模式到保护模式》](https://github.com/chenlingmin/x86_assembly)
 * [《自己动手实现Lua》](https://github.com/chenlingmin/luago)
