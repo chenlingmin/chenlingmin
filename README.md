@@ -1,6 +1,12 @@
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 December, 2021 - 08 December, 2021
+
+Other      18 mins         ████████▓░░░░░░░░░░░░░░░░   34.69 % 
+C          15 mins         ███████▒░░░░░░░░░░░░░░░░░   28.97 % 
+Java       10 mins         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Python     5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Markdown   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 ```
 <!--END_SECTION:waka-->
 
