@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2021 - 10 December, 2021
+Week: 05 December, 2021 - 11 December, 2021
 
 C          2 hrs 43 mins   █████████████▓░░░░░░░░░░░   55.11 % 
 Java       1 hr 10 mins    ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
