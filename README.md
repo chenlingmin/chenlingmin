@@ -1,10 +1,9 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 29 December, 2021
+Week: 24 December, 2021 - 30 December, 2021
 
-Groovy   53 mins         ██████████▓░░░░░░░░░░░░░░   43.03 % 
-Java     39 mins         ████████░░░░░░░░░░░░░░░░░   31.62 % 
-JSON     30 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.02 % 
+Groovy   53 mins         ██████████████▒░░░░░░░░░░   57.39 % 
+Java     39 mins         ██████████▓░░░░░░░░░░░░░░   42.17 % 
 ```
 <!--END_SECTION:waka-->
 
