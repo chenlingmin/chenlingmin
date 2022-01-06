@@ -1,9 +1,12 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2021 - 04 January, 2022
+Week: 30 December, 2021 - 05 January, 2022
 
-Groovy   45 mins         ██████████████▓░░░░░░░░░░   58.88 % 
-Java     31 mins         ██████████▒░░░░░░░░░░░░░░   41.12 % 
+Java         2 hrs 34 mins   █████████████████████▒░░░   85.90 % 
+Properties   15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Docker       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 <!--END_SECTION:waka-->
 
