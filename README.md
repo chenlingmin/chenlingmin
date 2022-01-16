@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 08 January, 2022 - 14 January, 2022
+Week: 09 January, 2022 - 15 January, 2022
 
 Java       1 hr 40 mins    ████████████████████░░░░░   79.72 % 
 Bash       14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
