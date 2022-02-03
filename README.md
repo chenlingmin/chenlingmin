@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 26 January, 2022 - 01 February, 2022
+Week: 27 January, 2022 - 02 February, 2022
 
-Java             5 hrs 22 mins   █████████████████████▓░░░   87.08 % 
-Text             37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-conf             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Markdown         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Java             5 hrs 17 mins   █████████████████████▓░░░   86.89 % 
+Text             37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+conf             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Markdown         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 <!--END_SECTION:waka-->
 
