@@ -1,12 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
-
-Java             5 hrs 17 mins   ███████████████████████▒░   92.69 % 
-Text             14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-conf             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-Markdown         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
