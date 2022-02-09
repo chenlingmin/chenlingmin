@@ -1,6 +1,9 @@
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 February, 2022 - 08 February, 2022
+
+Java       3 hrs 31 mins   ████████████████████████▒   97.14 % 
+Markdown   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 <!--END_SECTION:waka-->
 
