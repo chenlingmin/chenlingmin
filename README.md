@@ -1,9 +1,10 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2022 - 08 February, 2022
+Week: 03 February, 2022 - 09 February, 2022
 
-Java       3 hrs 31 mins   ████████████████████████▒   97.14 % 
-Markdown   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Java       5 hrs 29 mins   ███████████████████████░░   91.65 % 
+Markdown   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Text       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 <!--END_SECTION:waka-->
 
