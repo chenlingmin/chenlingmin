@@ -16,6 +16,8 @@ Markdown   18 mins         █░░░░░░░░░░░░░░░░�
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 
+![](https://raw.githubusercontent.com/chenlingmin/chenlingmin/main/assets/github-contribution-grid-snake.svg)  
+
 ## 学习代码
 
 * [《自制编程语言 基于C语言》](https://github.com/chenlingmin/sparrow)
