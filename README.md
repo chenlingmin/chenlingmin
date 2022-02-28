@@ -1,13 +1,16 @@
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Java         6 hrs 19 mins   ████████████████████░░░░░   80.38 % 
-Markdown     1 hr 14 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Text         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Properties   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-XML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Java           6 hrs 19 mins   ████████████████████░░░░░   80.38 %
+Markdown       1 hr 14 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
+Text           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Properties     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+XML            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
+
 <!--END_SECTION:waka-->
 
 ![info](https://github-readme-stats.vercel.app/api?username=chenlingmin&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
