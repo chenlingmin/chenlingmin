@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 February 2022 - To: 28 February 2022
+From: 23 February 2022 - To: 02 March 2022
 
-Java           5 hrs 22 mins   ███████████████████▒░░░░░   77.80 %
-Markdown       1 hr 14 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.01 %
-Text           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Properties     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-XML            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Java         3 hrs 38 mins   ████████████▒░░░░░░░░░░░░   49.29 %
+Markdown     3 hrs 35 mins   ████████████░░░░░░░░░░░░░   48.50 %
+Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
