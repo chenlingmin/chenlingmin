@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 April 2022 - To: 26 April 2022
+From: 20 April 2022 - To: 27 April 2022
 
-Text       5 hrs 10 mins   █████████████████████░░░░   83.53 %
-Markdown   32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Other      14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Text       1 hr 22 mins    █████████████▓░░░░░░░░░░░   54.73 %
+Markdown   30 mins         █████░░░░░░░░░░░░░░░░░░░░   20.16 %
+Other      14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
 ```
 
 <!--END_SECTION:waka-->
