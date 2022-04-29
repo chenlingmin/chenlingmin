@@ -1,11 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 April 2022 - To: 27 April 2022
+From: 21 April 2022 - To: 28 April 2022
 
-Text       1 hr 22 mins    █████████████▓░░░░░░░░░░░   54.73 %
-Markdown   30 mins         █████░░░░░░░░░░░░░░░░░░░░   20.16 %
-Other      14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+Java          1 hr 5 mins     ████████████░░░░░░░░░░░░░   47.50 %
+Docker        24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
+XML           15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+Other         14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
 ```
 
 <!--END_SECTION:waka-->
