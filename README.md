@@ -1,10 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 April 2022 - To: 06 May 2022
+From: 30 April 2022 - To: 07 May 2022
 
-YAML   2 hrs 48 mins   █████████████████████████   99.92 %
-conf   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+YAML         2 hrs 49 mins   █████████████████████░░░░   83.66 %
+Markdown     32 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
+conf         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
