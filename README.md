@@ -1,14 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 June 2022 - To: 23 June 2022
-
-Java             3 hrs 41 mins   ████████████████▓░░░░░░░░   67.26 %
-YAML             46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
-FTL              16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Properties       11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-XML              9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-GitIgnore file   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
