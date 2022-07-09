@@ -1,12 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 June 2022 - To: 07 July 2022
+From: 01 July 2022 - To: 08 July 2022
 
-Go               3 hrs 37 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
-YAML             2 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   19.92 %
-Docker           2 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
-Other            1 hr 59 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+Go               2 hrs 37 mins   ████████░░░░░░░░░░░░░░░░░   31.86 %
+Other            1 hr 59 mins    ██████░░░░░░░░░░░░░░░░░░░   24.11 %
 ```
 
 <!--END_SECTION:waka-->
