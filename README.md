@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 July 2022 - To: 08 July 2022
+From: 02 July 2022 - To: 09 July 2022
 
 Go               2 hrs 37 mins   ████████░░░░░░░░░░░░░░░░░   31.86 %
 Other            1 hr 59 mins    ██████░░░░░░░░░░░░░░░░░░░   24.11 %
