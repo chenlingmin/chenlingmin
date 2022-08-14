@@ -1,9 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 August 2022 - To: 11 August 2022
+From: 06 August 2022 - To: 13 August 2022
 
-Other            1 hr 12 mins    ████████████▓░░░░░░░░░░░░   50.55 %
+Java         3 hrs 9 mins    ███████████████▓░░░░░░░░░   62.09 %
+Other        1 hr 12 mins    ██████░░░░░░░░░░░░░░░░░░░   23.82 %
 ```
 
 <!--END_SECTION:waka-->
