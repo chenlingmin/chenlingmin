@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 August 2022 - To: 18 August 2022
+From: 12 August 2022 - To: 19 August 2022
 
-Java             8 hrs 41 mins   ████████████████████████▒   97.78 %
-Groovy           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Shell Script     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Java             5 hrs 13 mins   ██████████████████████▓░░   90.46 %
+XML              18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+YAML             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Groovy           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Shell Script     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
