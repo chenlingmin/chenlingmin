@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 August 2022 - To: 02 September 2022
+From: 28 August 2022 - To: 04 September 2022
 
-Java                  14 hrs 30 mins  ████████████████░░░░░░░░░   63.99 %
-Markdown              2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
-YAML                  2 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-JSON                  46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-XML                   44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-HTTP Request          42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Java                  15 hrs 29 mins  ████████████████░░░░░░░░░   64.62 %
+Markdown              2 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+YAML                  2 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+JSON                  55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+XML                   44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+HTTP Request          42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
