@@ -1,14 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 September 2022 - To: 06 October 2022
+From: 30 September 2022 - To: 07 October 2022
 
-Java     1 hr 24 mins    █████████████████████████   99.88 %
-Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-SQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java     1 hr 16 mins    █████████████████████████   99.92 %
+Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
