@@ -1,12 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 October 2022 - To: 18 October 2022
+From: 12 October 2022 - To: 19 October 2022
 
-Java         9 hrs 59 mins   ███████████████████░░░░░░   75.65 %
-Markdown     1 hr 35 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
-YAML         59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-Other        27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Java         4 hrs 49 mins   ████████████████▒░░░░░░░░   65.19 %
+Markdown     1 hr 35 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
+Other        27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
 ```
 
 <!--END_SECTION:waka-->
