@@ -1,7 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 31 October 2022 - To: 07 November 2022
+
+Java     1 hr 48 mins    ████████████████████████▒   97.22 %
+Groovy   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+YAML     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
