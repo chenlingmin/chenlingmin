@@ -1,12 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 November 2022 - To: 09 November 2022
+From: 03 November 2022 - To: 10 November 2022
 
-Java         2 hrs 55 mins   ███████████████████████▓░   95.06 %
-YAML         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Groovy       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Java             3 hrs 33 mins   █████████████████████▓░░░   86.60 %
+Other            18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
 ```
 
 <!--END_SECTION:waka-->
