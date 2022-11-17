@@ -1,5 +1,8 @@
 <!--START_SECTION:waka-->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=chenlingmin&rank=-B&margin-w=6)](https://github.com/chenlingmin)
+
+
 ```text
 From: 09 November 2022 - To: 16 November 2022
 
