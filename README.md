@@ -1,7 +1,5 @@
 <!--START_SECTION:waka-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chenlingmin&rank=-B&margin-w=6)](https://github.com/chenlingmin)
-
 
 ```text
 From: 09 November 2022 - To: 16 November 2022
@@ -14,7 +12,7 @@ Other            18 mins         ███▓░░░░░░░░░░░�
 
 ![info](https://github-readme-stats.vercel.app/api?username=chenlingmin&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenlingmin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=chenlingmin&rank=-B&margin-w=6)](https://github.com/chenlingmin)
 
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
