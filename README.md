@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 November 2022 - To: 24 November 2022
+From: 18 November 2022 - To: 25 November 2022
 
-Java             6 hrs 16 mins   ██████████████████▓░░░░░░   74.09 %
-Go               1 hr 30 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
-YAML             23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Other            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Java             6 hrs 40 mins   ███████████████▓░░░░░░░░░   62.13 %
+Go               3 hrs 24 mins   ████████░░░░░░░░░░░░░░░░░   31.77 %
+YAML             21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Other            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
