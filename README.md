@@ -1,14 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 November 2022 - To: 29 November 2022
+From: 23 November 2022 - To: 30 November 2022
 
-Java             7 hrs 42 mins   ████████████▒░░░░░░░░░░░░   49.35 %
-Go               5 hrs 11 mins   ████████▒░░░░░░░░░░░░░░░░   33.29 %
-YAML             1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-Docker           23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-GitIgnore file   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-conf             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Java             7 hrs 21 mins   ██████████▒░░░░░░░░░░░░░░   41.79 %
+Go               5 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   31.31 %
+YAML             1 hr 54 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+Other            1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
 ```
 
 <!--END_SECTION:waka-->
