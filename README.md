@@ -1,10 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 December 2022 - To: 22 December 2022
+From: 16 December 2022 - To: 23 December 2022
 
-Java             9 hrs 24 mins   ████████████████████▓░░░░   82.78 %
-Other            1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
+Java             5 hrs 30 mins   ██████████████████▓░░░░░░   74.57 %
+Other            1 hr 21 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
 ```
 
 <!--END_SECTION:waka-->
