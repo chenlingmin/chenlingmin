@@ -1,10 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 December 2022 - To: 28 December 2022
+From: 22 December 2022 - To: 29 December 2022
 
-Java             1 hr 43 mins    ███████▒░░░░░░░░░░░░░░░░░   29.94 %
-Other            1 hr 19 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
+Java             1 hr 16 mins    ████████░░░░░░░░░░░░░░░░░   31.96 %
+Go               1 hr 6 mins     ███████░░░░░░░░░░░░░░░░░░   27.67 %
+CSV/TSV          42 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.60 %
+YAML             41 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
+Text             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Docker           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
