@@ -23,6 +23,43 @@ JSON       7 mins          ▓░░░░░░░░░░░░░░░░�
 
 ![](https://raw.githubusercontent.com/chenlingmin/chenlingmin/main/assets/github-contribution-grid-snake.svg)  
 
+## 技术与工具
+[![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=0A8754)](##)
+[![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=0A8754)](##)
+[![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=0A8754)](##)
+[![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=0A8754)](##)
+
+
+[![](https://img.shields.io/badge/Spring%20Boot-informational?style=flat&logo=spring-boot&logoColor=white&color=0A8754)](##)
+[![](https://img.shields.io/badge/Spring%20Cloud-informational?style=flat&logo=spring&logoColor=white&color=0A8754)](##)
+[![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0A8754)](##)
+[![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=0A8754)](##)
+[![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css-wizardry&logoColor=white&color=0A8754)](##)
+[![](https://img.shields.io/badge/JPA-informational?style=flat&logo=hibernate&logoColor=white&color=0A8754)](##)
+[![](https://img.shields.io/badge/Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=0A8754)](##)
+
+[![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=D35400)](##)
+[![](https://img.shields.io/badge/Mysql-informational?style=flat&logo=mysql&logoColor=white&color=D35400)](##)
+[![](https://img.shields.io/badge/Redis-informational?style=flat&logo=Redis&logoColor=white&color=D35400)](##)
+[![](https://img.shields.io/badge/Kafka-informational?style=flat&logo=Apache-Kafka&logoColor=white&color=D35400)](##)
+[![](https://img.shields.io/badge/Elasticsearch-informational?style=flat&logo=Elasticsearch&logoColor=white&color=D35400)](##)
+[![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=D35400)](##)
+[![](https://img.shields.io/badge/kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=D35400)](##)
+
+[![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=0F40C3)](##)
+[![](https://img.shields.io/badge/IntelliJ_GoLand-informational?style=flat&logo=intellij-goland&logoColor=white&color=0F40C3)](##)
+[![](https://img.shields.io/badge/vscode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=0F40C3)](##)
+[![](https://img.shields.io/badge/vim-informational?style=flat&logo=vim&logoColor=white&color=0F40C3)](##)
+
+[![](https://img.shields.io/badge/Amazon_AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=484E3A)](##)
+[![](https://img.shields.io/badge/Amazon_EKS-informational?style=flat&logo=Amazon-EKS&logoColor=white&color=484E3A)](##)
+[![](https://img.shields.io/badge/Amazon_RDS-informational?style=flat&logo=Amazon-RDS&logoColor=white&color=484E3A)](##)
+[![](https://img.shields.io/badge/Amazon_S3-informational?style=flat&logo=Amazon-S3&logoColor=white&color=484E3A)](##)
+[![](https://img.shields.io/badge/Amazon_Lambda-informational?style=flat&logo=Amazon-Lambda&logoColor=white&color=484E3A)](##)
+[![](https://img.shields.io/badge/aliyun-informational?style=flat&logo=Alibaba-cloud&logoColor=white&color=484E3A)](##)
+
+
+
 ## 学习代码
 
 * [《自制编程语言 基于C语言》](https://github.com/chenlingmin/sparrow)
