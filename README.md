@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 January 2023 - To: 08 January 2023
+From: 02 January 2023 - To: 09 January 2023
 
-Java           9 hrs 34 mins   █████████████▓░░░░░░░░░░░   55.20 %
-Bash           2 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
-YAML           1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Markdown       1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-Shell Script   49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Other          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Java           15 hrs 51 mins  ████████████████▒░░░░░░░░   65.82 %
+Bash           2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+Markdown       1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+YAML           1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Shell Script   49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Other          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
