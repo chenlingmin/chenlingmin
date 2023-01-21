@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 January 2023 - To: 19 January 2023
+From: 13 January 2023 - To: 20 January 2023
 
 JSON   5 mins          ██████████████▓░░░░░░░░░░   58.11 %
 Java   3 mins          █████████▒░░░░░░░░░░░░░░░   37.59 %
