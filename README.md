@@ -1,7 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 21 January 2023 - To: 28 January 2023
+
+Java       38 mins         ████████████████████████▓   98.91 %
+YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
