@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 January 2023 - To: 28 January 2023
+From: 22 January 2023 - To: 29 January 2023
 
-Java       38 mins         ████████████████████████▓   98.91 %
-YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Java       1 hr 3 mins     ███████████████████████▓░   95.16 %
+JSON       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
