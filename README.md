@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 March 2023 - To: 07 April 2023
+From: 01 April 2023 - To: 08 April 2023
 
 Markdown   3 hrs 50 mins   ██████████▓░░░░░░░░░░░░░░   42.60 %
 Java       3 hrs 29 mins   █████████▓░░░░░░░░░░░░░░░   38.57 %
