@@ -1,9 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2023 - To: 30 April 2023
+From: 25 April 2023 - To: 02 May 2023
 
-No activity tracked
+Java       4 hrs 48 mins   ███████████████████████▒░   93.90 %
+Markdown   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+XML        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
