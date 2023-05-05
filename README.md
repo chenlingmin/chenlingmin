@@ -1,11 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 April 2023 - To: 03 May 2023
+From: 27 April 2023 - To: 04 May 2023
 
-Java   1 hr 5 mins     █████████████████████████   99.95 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
