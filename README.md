@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 May 2023 - To: 08 May 2023
+From: 02 May 2023 - To: 09 May 2023
 
 SQL      37 mins         █████████████░░░░░░░░░░░░   52.08 %
 Java     34 mins         ████████████░░░░░░░░░░░░░   47.80 %
